@@ -7,7 +7,7 @@
 
 ![](image/image_-rMZ1OSMrU.png)
 
-1. 用记事本打开`项目名/Source/项目名Editor.Target.cs`，添加以下内容
+3. 用记事本打开`项目名/Source/项目名Editor.Target.cs`，添加以下内容
 
 ![](image/image_Mr7Gj1_40p.png)
 
